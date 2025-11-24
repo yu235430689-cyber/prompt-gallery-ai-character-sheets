@@ -1,6 +1,6 @@
 # 作品名称（可自定义）
 
-![preview](artworks/sci-fi-girl-final/sci-fi-girl-final.jpeg)
+![preview](sci-fi-girl-final.jpeg)
 
 ---
 
