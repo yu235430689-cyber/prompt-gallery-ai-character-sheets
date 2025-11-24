@@ -1,5 +1,5 @@
 # 作品名称：gen_z_idol_flash_photography
-![preview](sci-fi-girl-final.jpeg)
+![preview](gen_z_idol_flash_photography_1763965225523.png)
 
 ---
 
