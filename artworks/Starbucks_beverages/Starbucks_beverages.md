@@ -1,5 +1,5 @@
 # 作品名称：Starbucks beverages
-![preview](gen_z_idol_flash_photography_1763965225523.png)
+![preview](Starbucks_beverages_24_2025__3_31PM.jpeg)
 
 ---
 
