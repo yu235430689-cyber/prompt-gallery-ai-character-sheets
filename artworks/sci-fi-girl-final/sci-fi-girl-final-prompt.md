@@ -1,4 +1,4 @@
-# 作品名称（可自定义）
+# 作品名称：Sci-Fi Girl Final Breakdown
 
 ![preview](sci-fi-girl-final.jpeg)
 
