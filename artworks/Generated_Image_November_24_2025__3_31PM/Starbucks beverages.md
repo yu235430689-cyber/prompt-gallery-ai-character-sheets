@@ -13,7 +13,7 @@
 ---
 
 ## 🎨 提示词（Prompt）
-
+```
 {
 
   "style": "High-quality, professional product photography, warm, textured, inviting.",
@@ -59,7 +59,7 @@
   "composition": "Two cups with subtle depth, typography above and below, warm color palette with subtle green accents."
   
 }
-
+```
 ## 🎨 提示词（Prompt）备用文字版:
 
 一幅高品质、专业的产品摄影作品，画面中有两杯星巴克咖啡置于温暖、富有质感的米褐色表面上，背景为相同纹理的墙面。光线柔和自然，从左上方投射，杯子与文字在背景上留下轻柔、拉长的阴影，营造深度与温馨氛围。整体色调温暖宜人，以大地中性色、奶油白和白色为主，标志性的星巴克绿色带来微妙的视觉对比。
