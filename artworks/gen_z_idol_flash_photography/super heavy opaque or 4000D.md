@@ -4,7 +4,7 @@
 ---
 
 ## 📌 基本信息
-- **作品名称**：gen_z_idol_flash_photography
+- **作品名称**：gen_z_idol_flash_photography 4000D
 - **生成日期**：2025-11-24
 - **风格类型**：杂志摄影
 - **模型使用**：Generated with Gemini 3 Pro Image
