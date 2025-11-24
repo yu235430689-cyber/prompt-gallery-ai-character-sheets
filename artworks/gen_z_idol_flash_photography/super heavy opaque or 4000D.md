@@ -1,5 +1,5 @@
 # 作品名称：gen_z_idol_flash_photography 4000D
-![preview](super heavy opaque or 4000D.jpeg).
+![preview](super heavy opaque or 4000D.jpeg)
 
 ---
 
