@@ -1,5 +1,4 @@
-
-
+![preview](Rainy_Night_Gyaru_Scooter.jpeg)
 
 A vertical full-body anime illustration in a modern Japanese 2D style (2020-2025 aesthetic) in a nighttime outdoor environment.
 AGE & FACE: Age: 18 years old, cute Japanese girl with youthful JC-style face—innocent large anime eyes, soft features.
