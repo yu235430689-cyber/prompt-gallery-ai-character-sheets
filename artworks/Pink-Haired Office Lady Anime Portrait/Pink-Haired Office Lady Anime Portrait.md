@@ -1,6 +1,8 @@
 Create a vertical half-body anime illustration of a pink-haired office lady (OL)
 against a soft white background, in pure Japanese 二次元 style (2020-2025 modern anime aesthetic).
-
+![preview](Pink_Haired_Office_Lady_Anime_Portrait.png)
+![preview](Pink_Haired_Office_Lady_Anime_Portrait_1.png)
+![preview](Pink_Haired_Office_Lady_Anime_Portrait_2.png)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 【CHARACTER APPEARANCE】
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
